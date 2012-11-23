@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id        = "com.kroned.application"
+	version   = "1.0.0">
+	<name>Kroned - Improves your Facebook Outreach</name>
+	<description>
+		Easily manage all your Facebook pages and Quickly Schedule Posts
+	</description>
+	<author email="rahulthespaceman@gmail.com">
+		Rahul Bohra
+	</author>
+</widget>
