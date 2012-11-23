@@ -3,7 +3,7 @@
 	xmlns:gap = "http://phonegap.com/ns/1.0"
 	id        = "com.kroned.application"
 	version   = "1.0.0">
-	<name>Kroned - Improves your Facebook Outreach</name>
+	<name>Kroned</name>
 	<description>
 		Easily manage all your Facebook pages and Quickly Schedule Posts
 	</description>
